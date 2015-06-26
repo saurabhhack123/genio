@@ -30,7 +30,7 @@ TODO: Write usage instructions here
 
 USAGE:
 
-gem "zerp", :git => "git://github.com/saurabhhack123/zerp.git"
+gem "genio", :git => "git://github.com/saurabhhack123/genio.git"
 
 bundle install
 
